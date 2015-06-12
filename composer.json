@@ -1,0 +1,14 @@
+{
+    "name": "rande/travis-kitchensink",
+    "license": "MIT",
+
+    "autoload": {
+        "psr-0": { "": "src/" }
+    },
+
+    "minimum-stability": "stable",
+
+    "require": {
+        "sonata-project/exporter": "~1"
+    }
+}
